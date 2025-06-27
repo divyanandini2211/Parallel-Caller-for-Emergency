@@ -56,10 +56,10 @@ Future Improvements:
 - Local logging and dashboard display
 
 Author:
-Divya Nandhini R
-Sai Karthi Balaji.G
-SuryaPrakash.B
-Nivashini.N
-Latshana.P
+-Divya Nandhini R
+-Sai Karthi Balaji.G
+-SuryaPrakash.B
+-Nivashini.N
+-Latshana.P
 
 
